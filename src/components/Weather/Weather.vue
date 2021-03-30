@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <template v-if="!isLoading">
+        <!-- <template v-if="!isLoading"> -->
             <template v-if="isCollectingData">
                 <div class="loadingDataScreen">
                     <div class="loader"></div>
@@ -101,13 +101,13 @@
                     <p>created by <span style="color:#e94560;"><a href="https://www.pbielanin.pl" target="_blank">pbielanin</a></span></p>
                 </section>
             </div>
-        </template>
+        <!-- </template> -->
 
-        <template v-else>
+        <!-- <template v-else>
             <div class="loadingScreen">
                 <div class="loader"></div>
             </div>
-        </template>
+        </template> -->
     </div>
 </template>
 
