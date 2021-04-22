@@ -1,22 +1,16 @@
 # vue-weather-app
 
-> Weather app based on Vue.js
+> Weather app 
 
-## Build Setup
+Weather forecast application for the next few days, you can even choose a specific town. In the top right corner you can change units from european to american.
 
-``` bash
-# install dependencies
-npm install
+Application is based on Vue.js and SCSS.
 
-# serve with hot reload at localhost:8080
-npm run dev
+Demo: http://app.pbielanin.pl/weather/
 
-# build for production with minification
-npm run build
+Used api: https://openweathermap.org/api
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+MIT license
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-weather-app
+![opera_kPSENv2JII](https://user-images.githubusercontent.com/55627799/115793841-25a31500-a3cd-11eb-997c-d6f05552cc23.png)
+![opera_kN0QFTmBQL](https://user-images.githubusercontent.com/55627799/115793870-32c00400-a3cd-11eb-8779-2e9993cf09b0.png)
